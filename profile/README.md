@@ -76,3 +76,5 @@ Built on [JiT](https://github.com/LTH14/JiT), [pixel MeanFlow](https://github.co
 [MiniT2I](https://github.com/Hope7Happiness/minit2i-torch), [PixelDiT](https://github.com/NVlabs/PixelDiT),
 [Idol and Idol-turbo](https://huggingface.co/speridlabs), [FLUX.2](https://github.com/black-forest-labs/flux2),
 [DINOv3](https://github.com/facebookresearch/dinov3) and [APT](https://github.com/rccchoudhury/apt).
+
+We acknowledge the compute support of the Health Care Engineering Systems Center within the Coordinated Science Lab at UIUC.

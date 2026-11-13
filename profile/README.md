@@ -28,7 +28,7 @@ and compute and memory fall with the token count.
 |:---:|---|---|---|---|---|
 | <img src="assets/budgetpix_mark.svg" width="64" height="64" alt="BudgetPix"> | **BudgetPix** | pixel-space image generation | [BudgetPix](https://github.com/BudgetAny/BudgetPix) | [budgetpix](https://budgetany.github.io/budgetpix/) | [arXiv:2610.12307](https://arxiv.org/abs/2610.12307) |
 | <img src="assets/budget3d_mark.svg" width="64" height="64" alt="Budget3D"> | **Budget3D** | image-to-3D generation (3D Gaussian splats) | [Budget3D](https://github.com/BudgetAny/Budget3D) | [budget3d](https://budgetany.github.io/budget3d/) | tech report coming soon |
-| <img src="assets/budgetlatent_mark.svg" width="64" height="64" alt="BudgetLatent"> | **BudgetLatent** | latent-space image generation | [BudgetLatent](https://github.com/BudgetAny/BudgetLatent) | [budgetlatent](https://budgetany.github.io/budgetlatent/) | tech report coming soon |
+| <img src="assets/budgetlatent_mark.svg" width="64" height="64" alt="BudgetLatent"> | **BudgetLatent** | latent-space image generation | coming soon | [budgetlatent](https://budgetany.github.io/budgetlatent/) | tech report coming soon |
 
 ## Models
 

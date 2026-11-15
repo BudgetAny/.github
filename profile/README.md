@@ -16,6 +16,10 @@ compute-adaptive ("budget") tokenization. A generative model is fine-tuned so th
 number of tokens, chosen at inference: detailed content keeps fine tokens, simple content is merged into coarse ones,
 and compute and memory fall with the token count.
 
+**Contributions are welcome.** Bug reports, questions and pull requests are all appreciated, from a typo fix or
+clearer documentation to a port to a new base model or a new modality. For larger changes, please open an issue
+first so we can plan it together.
+
 > **Unofficial, open-source implementation.** The method comes from
 > [BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion](https://arxiv.org/abs/2610.12307)
 > (Kara et al., 2026). The code and models here are a community reimplementation and extension of it, not an
